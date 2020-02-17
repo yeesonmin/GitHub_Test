@@ -53,6 +53,8 @@
             this.계단식ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.타일식ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.아이콘식ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.도움말ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.메모장정보ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.tss_State = new System.Windows.Forms.ToolStripStatusLabel();
             this.tss_Time = new System.Windows.Forms.ToolStripStatusLabel();
@@ -77,8 +79,7 @@
             this.printPreviewDialog1 = new System.Windows.Forms.PrintPreviewDialog();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
-            this.도움말ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.메모장정보ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.label1 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
@@ -282,6 +283,21 @@
             this.아이콘식ToolStripMenuItem.Text = "타일식수직정렬";
             this.아이콘식ToolStripMenuItem.Click += new System.EventHandler(this.아이콘식ToolStripMenuItem_Click);
             // 
+            // 도움말ToolStripMenuItem
+            // 
+            this.도움말ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.메모장정보ToolStripMenuItem});
+            this.도움말ToolStripMenuItem.Name = "도움말ToolStripMenuItem";
+            this.도움말ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
+            this.도움말ToolStripMenuItem.Text = "정보";
+            // 
+            // 메모장정보ToolStripMenuItem
+            // 
+            this.메모장정보ToolStripMenuItem.Name = "메모장정보ToolStripMenuItem";
+            this.메모장정보ToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
+            this.메모장정보ToolStripMenuItem.Text = "메모장정보";
+            this.메모장정보ToolStripMenuItem.Click += new System.EventHandler(this.메모장정보ToolStripMenuItem_Click);
+            // 
             // statusStrip1
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -469,20 +485,14 @@
             this.printPreviewDialog1.Name = "printPreviewDialog1";
             this.printPreviewDialog1.Visible = false;
             // 
-            // 도움말ToolStripMenuItem
+            // label1
             // 
-            this.도움말ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.메모장정보ToolStripMenuItem});
-            this.도움말ToolStripMenuItem.Name = "도움말ToolStripMenuItem";
-            this.도움말ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
-            this.도움말ToolStripMenuItem.Text = "정보";
-            // 
-            // 메모장정보ToolStripMenuItem
-            // 
-            this.메모장정보ToolStripMenuItem.Name = "메모장정보ToolStripMenuItem";
-            this.메모장정보ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.메모장정보ToolStripMenuItem.Text = "메모장정보";
-            this.메모장정보ToolStripMenuItem.Click += new System.EventHandler(this.메모장정보ToolStripMenuItem_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(717, 349);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(30, 12);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Test";
             // 
             // MainForm
             // 
@@ -490,6 +500,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(783, 395);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
@@ -564,6 +575,7 @@
         public System.Windows.Forms.ToolStripStatusLabel tss_State;
         private System.Windows.Forms.ToolStripMenuItem 도움말ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 메모장정보ToolStripMenuItem;
+        private System.Windows.Forms.Label label1;
     }
 }
 

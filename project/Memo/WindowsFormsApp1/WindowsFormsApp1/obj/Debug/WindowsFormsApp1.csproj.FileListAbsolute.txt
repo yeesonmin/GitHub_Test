@@ -20,3 +20,14 @@ D:\OneDrive - 한국폴리텍대학\C#\C#프로그래밍 입문\project\Memo\Win
 D:\OneDrive - 한국폴리텍대학\C#\C#프로그래밍 입문\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 D:\OneDrive - 한국폴리텍대학\C#\C#프로그래밍 입문\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\OneDrive - 한국폴리텍대학\C#\C#프로그래밍 입문\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemoInfo.resources
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextForm.resources
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SONMIN\Documents\GitHub\GitHub_Test\project\Memo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

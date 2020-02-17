@@ -139,11 +139,11 @@
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEmSURBVDhPY6AYLGnz9FnS5tUKw4tbfKpnphmzQqUJg/W9
-        /ktub0j9D8OnFiT/W9Plt3lahZsxPjyz3l4EqwEgfGNt8v+zS+PxYpBrcRoAw5dXJWLVDMILGjznTq5y
+        /ktub0j9D8Mn5yf/W9Plt3lahZsxPjyz3l4EqwEgfGNt8v+zS+PxYpBrcRoAw5dXJWLVDMILGjznTq5y
         MgIbcGt9yv9D86KBOAaOD8yN+X9pfc7/R3srcOJdM2NvgA04vyL+/90dJf+/nmslCe+bF78NbMDRBTH/
-        359sxKoIH946LWIO2IAjC+KwKsCHP51p/r+mJ6gabMCxxYlYFeHD1/bl/l3Y7GEDNuDk8lSsivDhk6vj
+        359sxKoIH946LWIO2IAjC+KwKsCHP51p/r+mJ6gabMCxxYlYFeHDV/fl/F3Y7GEDNuDk8lSsivDhk6vj
         P88pteJlWN3lu/ry+lysivDhQwviXoDTwcpO3/3PDlZhVYQP754RcRtswNq+wKtfzmJXhA9vnBR2HmzA
-        0nafulXd/kdIxcs7/WPBBlAGGBgAn55QWd+cPdQAAAAASUVORK5CYII=
+        0nafulXd/kdIxcs7/WPBBlAGGBgAlYtQVenzDB0AAAAASUVORK5CYII=
 </value>
   </data>
   <data name="tlb_Save.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -214,11 +214,11 @@
   <data name="tlb_Copy.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADESURBVEhL7c8xC8IwEAXg/GwHi+4F7SAuap1E6Cj+CUH/
-        jCiCg6kPrlDKXZtLMijNg7e93EfMX2SSb62m2WJ3padhwbH72zoV21lRfrKivNBz/2jhx/Nl5198utzf
-        6IRftDDSi2Ok6epwYrF2sWsi4u3RULDNN5VdH88s2LR7k8W1MI4A7/s5dlKJ1cOIC841GEZ88CgwosWD
-        YKkc1C12xOpgKQmWmmB67p8ES00wPffPOGHXEhsPpnPuGScco3Tul2NMDXK22R6TYm7nAAAAAElFTkSu
-        QmCC
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADCSURBVEhL7c8xCsJAEAXQPbaFwQMEjIXYaLQSwVK8hKCX
+        EUWwcOXLBEKYiTuzWyjZD7/7O491f5FRufKaFtP6TE/jgmPXpw8qtpOqfhWz9Yme26OFb/fHBx9Xmwud
+        sEULI704RprOtwcWaxe7JiLeHn0LtuVy7xe7Iws27d5kcS2MI8D7fo6dVGL1MBKCc42GEQueBEa0eBQs
+        lYO6xY5YHSwlw1IzTM/tybDUDNNze4YJh5bYdDCdC88w4RSlc78c597NKtkQJAPzZAAAAABJRU5ErkJg
+        gg==
 </value>
   </data>
   <data name="tlb_Paste.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
